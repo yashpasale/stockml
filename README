@@ -1,0 +1,5 @@
+October 20th, 2022: I undertook this project as a method to predict stockprices in a quantitative way rather than the traditional way
+
+This model should not be used for real life purposes as it needs more refinement. I will not be responsible for any loss.
+
+For selecting a stock to predict, input "stock.symbol" from yahoo finance into the field.
