@@ -2,4 +2,8 @@ October 20th, 2022 - November 7th, 2022: I undertook this project as a method to
 
 This model should not be used for real life purposes as it needs more refinement. I will not be responsible for any loss.
 
-For selecting a stock to predict, input "stock.symbol" from yahoo finance into the field.
+For selecting a stock to predict, input "stock.symbol" from yahoo finance into the field. 
+
+Given Below:
+
+df = yf.download('input stocksymbol here', start='1998-03-08', end='2022-10-21')
