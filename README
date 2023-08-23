@@ -1,8 +1,8 @@
 October 20th, 2022 - November 7th, 2022: I undertook this project as a method to predict stockprices in a quantitative way rather than the traditional way
 
-This model should not be used for real life purposes as it needs more refinement. I will not be responsible for any loss.
+This model should not be used for real life purposes as it is only a demonstration of ML.
 
-For selecting a stock to predict, input "stock.symbol" from yahoo finance into the field. 
+For selecting a stock to predict, input "stock.symbol" from yahoo finance into the field (navigate to the line of code represented below). 
 
 Given Below:
 
