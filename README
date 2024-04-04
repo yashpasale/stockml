@@ -1,4 +1,4 @@
-### October 20th, 2022 - November 7th, 2022: I undertook this project as a method to predict stockprices in a quantitative way rather than the traditional way
+# October 20th, 2022 - November 7th, 2022: I undertook this project as a method to predict stockprices in a quantitative way rather than the traditional way
 
 This model should not be used for real life purposes as it is only a demonstration of ML.
 
@@ -9,4 +9,4 @@ Given Below:
 df = yf.download('input stocksymbol here', start='1998-03-08', end='2022-10-21')
 
 Side note:
-Doesn't work and have no clue what is going on, publishing is just for respecting the attempt. 
+Doesn't work and have no clue what is going on, publishing is just for respecting the attempt. Plus I would never use this to make decsions, I'd rather prefer inversing Jim Cramer
